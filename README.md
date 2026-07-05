@@ -1,5 +1,7 @@
 # Slice — 2D Action-Platformer
 
+<video src="./demo.mp4" controls="controls" muted="muted" style="max-width: 100%;"></video>
+
 A fast-paced, 2D action-platformer prototype featuring tight controls, melee combat, and custom AI logic.
 
 ## Tech Stack
